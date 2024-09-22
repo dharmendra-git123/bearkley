@@ -1,0 +1,840 @@
+@media (max-width: 1599px) {
+.container {
+    max-width: 100%;
+}
+.about-cont, .engineering-cont {
+    padding: 0 15px;
+}
+.history {
+    padding: 0 15px;
+}
+.history-right {
+    padding-left: 30px;
+}
+.qualified-desc {
+    padding: 0 30px 0 15px;
+    width: 40%;
+}
+#customer .about-cont {
+    padding: 100px 15px;
+}
+#footer .container {
+    padding: 0 15px;
+}
+
+}
+@media (max-width: 1440px) {
+.plan-blog {
+    width: 500px;
+    height: 500px;
+}
+.earth-img img {
+    width: 100%;
+}
+.earth-img {
+    width: 90%;
+    margin: 0 auto;
+}
+.plan-image-box .plan-img {
+    width: 95%;
+}
+.main-menu ul li a {
+    font-size: 16px;
+}
+.twitter-blog img {
+    max-width: 200px;
+}
+.down-arrow .arrow-cover {
+    max-width: 80px;
+}
+.down-arrow .d-arrow {
+    max-width: 15px;
+    margin-left: -7.5px;
+    margin-top: -2px;
+}
+.main-menu ul li a:before {
+    bottom: -40px;
+}
+.main-menu ul li .about {
+    right: 0;
+}
+.main-menu ul li .quality {
+    right: -60px;
+}
+.main-menu ul li .repair {
+    right: -118px;
+}
+.main-menu ul li .investor {
+    right: -38px;
+}
+.main-menu ul li .job {
+    left: 25px;
+}
+.main-menu ul li .accounting {
+    left: -80px;
+}
+.main-menu ul li .engineering {
+    left: -170px;
+}
+.main-menu ul li .parts {
+    left: -44px;
+}
+
+}
+@media (max-width: 1439px) {
+.header-top {
+    padding: 30px 30px 0;
+}
+.logo img {
+    max-width: 200px;
+}
+.service-logo img {
+    max-width: 75px;
+}
+.header-bottom {
+    padding-top: 150px;
+}
+.twitter-blog {
+    padding-left: 30px;
+}
+.arrow-blog {
+    padding-right: 30px;
+}
+.down-arrow {right: 30px;}
+#about-us {
+    margin-top: 70px;
+}
+.about-desc h2 {
+    padding-right: 0;
+    margin: 15px 0;
+}
+h2 {
+    font-size: 30px;
+}
+.about-desc {
+    padding: 20px 15px 20px 30px;
+}
+.about-desc p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.history-left strong {
+    font-size: 78px;
+}
+.history-right {
+    padding: 40px 0 40px 30px;
+}
+.history-right p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+#engineering {
+    padding: 70px 0;
+}
+.engineering-desc p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.blue-btn {
+    font-size: 18px;
+    max-width: 300px;
+}
+#qualified {
+    padding: 50px 0;
+}
+#customer .about-cont {
+    padding-top: 50px;
+}
+.testimonial-slider .item > p {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 20px 0 30px 0;
+}
+.form-row.action {
+    margin-bottom: 0;
+}
+.f-menu ul li {
+    margin-right: 15px;
+    margin-right: 15px;
+}
+.f-menu ul li a {
+    font-size: 14px;
+}
+.copyright p {
+    font-size: 16px;
+}
+
+}
+@media (max-width: 1199px) {
+h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.about-desc p {
+    font-size: 15px;
+}
+.history-right p {
+    font-size: 15px;
+}
+.history-left strong {
+    font-size: 60px;
+}
+.engineering-desc p {
+    font-size: 15px;
+}
+.client-name h5, .client-name p {
+    font-size: 18px;
+}
+.form-row input {
+    height: 40px;
+    padding: 0 10px;
+    font-size: 15px;
+}
+.form-row {
+    margin-bottom: 10px;
+}
+.form-row .form-box {
+    margin-right: 10px;
+    width: calc(50% - 5px);
+}
+.form-row.action .blue-btn {
+    height: 40px;
+    line-height: 36px;
+    font-size: 15px;
+}
+.contact-us {
+    padding-left: 30px;
+}
+.contact-box {
+    padding: 20px 15px;
+}
+.contact-box h6 {
+    font-size: 16px;
+}
+.contact-box a {
+    font-size: 16px;
+    line-height: normal;
+}
+.f-menu ul li {
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.f-menu ul li a {
+    font-size: 13px;
+}
+.copyright p {
+    font-size: 15px;
+}
+.testimonial-slider .item .slide-vector img {
+    max-width: 15px;
+}
+.testimonial-slider .item > p {
+    font-size: 15px;
+    margin: 10px 0 20px 0;
+}
+#customer .owl-nav {
+    top: 0;
+}
+#customer .owl-nav button {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+}
+.header-top {
+    padding: 20px 15px;
+}
+.logo img {
+    max-width: 120px;
+}
+.service-logo img {
+    max-width: 50px;
+}
+.twitter-blog {
+    padding-left: 15px;
+}
+.twitter-blog img {
+    max-width: 150px;
+}
+
+}
+@media (max-width: 991px) {
+#about-us {
+    margin-top: 50px;
+}
+.about-cont, .engineering-cont {
+    flex-wrap: wrap;
+    background: transparent;
+}
+.about-img, .engineering-img {
+    width: 100%;
+}
+.about-desc {
+    background: #0033AB;
+    width: 100%;
+    padding: 25px 15px;
+    text-align: center;
+}
+.about-desc h6 {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2 {
+    font-size: 20px;
+}
+.about-desc h2 {
+    margin: 10px 0 15px 0;
+}
+#about-us:before {
+    display: none;
+}
+.history {
+    flex-wrap: wrap;
+    padding: 40px 10px;
+}
+.history-left {
+    width: 100%;
+    text-align: center;
+}
+#about-us:before, #history:before, #engineering:before, #qualified:before {
+    display: none;
+}
+.history-right {
+    background: transparent;
+    width: 100%;
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+.history-left strong {
+    font-size: 36px;
+}
+#engineering {
+    padding: 0;
+}
+.engineering-desc {
+    width: 100%;
+    padding: 40px 0 0 0;
+    text-align: center;
+}
+.engineering-desc p {
+    margin: 10px 0 25px 0;
+}
+.blue-btn {
+    margin: 0 auto;
+    font-size: 16px;
+    width: 250px;
+}
+#qualified {
+    background: #efefef;
+    padding: 30px 15px;
+    margin-top: 40px;
+}
+.qualified-cont {
+    flex-wrap: wrap;
+}
+.qualified-desc {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+}
+.engineering-desc h2 br {
+    display: none;
+}
+.qualified-slider-blog {
+    padding: 30px 15px 0;
+    width: 100%;
+}
+.qualified-slider {
+    border: solid 1px #0033ab;
+}
+#customer .about-cont {
+    padding: 0 15px 150px;
+    background-position: center bottom;
+    background-size: 50% auto;
+}
+#customer .about-desc {
+    width: 100%;
+    background: transparent;
+    padding: 40px 0;
+}
+#customer .about-desc h2 {
+    line-height: normal;
+    margin-bottom: 10px;
+}
+.testimonial-slider {
+    width: 100%;
+    margin: 0;
+}
+#customer .owl-nav {
+    top: auto;
+    bottom: -60px;
+    width: 100%;
+    justify-content: center;
+}
+.get-in-touch {
+    padding: 20px 15px;
+    width: 100%;
+}
+.get-in-touch h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.form-row {flex-wrap: wrap;}
+.form-row .form-box:last-child {
+    margin-bottom: 0;
+}
+.form-row.action .blue-btn {
+    width: 100%;
+}
+.footer-contact {
+    flex-wrap: wrap;
+}
+.contact-us {
+    padding: 30px 0;
+    width: 100%;
+}
+.contact-us h3 {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.f-menu ul li {
+    margin-right: 7px;
+    padding-right: 8px;
+}
+.footer-menu {
+    padding: 15px 0;
+}
+.f-menu ul li a {
+    font-size: 10px;
+}
+.plan-blog {
+    width: 350px;
+    height: 350px;
+}
+.main-menu ul li a {
+    font-size: 14px;
+}
+.main-menu ul li a:before {
+    width: 15px;
+    height: 15px;
+}
+.main-menu ul li .home {
+    top: -30px;
+}
+.main-menu ul li a:before {
+    bottom: -18px;
+}
+.main-menu ul li .about {
+    right: -10px;
+}
+.main-menu ul li .about:before {
+    left: -30px;
+}
+.main-menu ul li .quality {
+    right: -50px;
+}
+.main-menu ul li .quality:before {
+    left: -26px;
+}
+.main-menu ul li .repair {
+    right: -100px;
+}
+.main-menu ul li .repair:before {
+    left: -26px;
+}
+.main-menu ul li .investor {
+    right: -45px;
+}
+.main-menu ul li .investor:before {
+    left: -30px;
+}
+.main-menu ul li a.contact {
+    bottom: -30px;
+}
+.main-menu ul li a.contact:before {
+    bottom: 22px;
+}
+.main-menu ul li .job:before {
+    left: 33px;
+}
+.main-menu ul li .accounting {
+    left: -70px;
+}
+.main-menu ul li .accounting:before {
+    right: -30px;
+}
+.main-menu ul li .engineering {
+    left: -140px;
+}
+.main-menu ul li .engineering:before {
+    right: -34px;
+}
+.main-menu ul li .parts:before {
+    right: -35px;
+}
+.twitter-blog img {
+    max-width: 120px;
+}
+
+}
+@media (max-width: 767px) {
+h2 {
+    font-size: 18px;
+    line-height: normal;
+}
+.about-desc p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.history {
+    padding: 30px 15px;
+}
+.history-left strong {
+    font-size: 30px;
+}
+.history-right {
+    padding-top: 15px;
+}
+.history-right p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.engineering-desc {
+    padding-top: 30px;
+}
+.engineering-desc p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+#qualified {
+    margin-top: 30px;
+}
+.qualified-desc p {
+    margin: 14px 0 25px 0;
+    font-size: 14px;
+    line-height: 20px;
+}
+#customer .about-desc {
+    padding: 30px 0;
+}
+.testimonial-slider .item > p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.testimonial-slider .item .slide-vector img {
+    width: 10px;
+    margin-right: 5px;
+}
+.client-name h5, .client-name p {
+    font-size: 15px;
+    margin: 0;
+}
+.testimonial-slider .item {
+    text-align: center;
+}
+.client-details {flex-direction: column;}
+.client-details span {
+    margin: 0 0 10px 0;
+}
+#customer .about-cont {
+    padding-bottom: 120px;
+}
+.form-row .form-box {
+    width: 100%;
+    margin: 0 0 10px 0;
+}
+.contact-row {
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.contact-box {
+    padding: 0 0 10px 0;
+    width: 100%;
+    border: 0;
+    border-bottom: solid 1px #fff;
+    margin-bottom: 10px;
+}
+.contact-us h3 {
+    padding: 0;
+}
+.contact-box a {
+    font-size: 15px;
+    margin: 0 0 5px 0;
+}
+.contact-box h6 {
+    margin-bottom: 10px;
+}
+.contact-box:last-child {
+    margin-bottom: 0;
+}
+.contact-row.accounting {
+    margin: 0;
+}
+.copyright {
+    flex-direction: column-reverse;
+    text-align: center;
+}
+.copyright p {
+    font-size: 14px;
+    margin-top: 10px;
+}
+.copyright p:last-child {
+    margin: 0;
+}
+.f-menu ul {
+    display: none;
+    border-top: solid 1px #fff;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.f-mb-menu {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+.f-mb-menu spam {
+    color: #fff;
+}
+.f-mb-menu span {
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+.f-mb-menu span.arrow {
+    width: 10px;
+    height: 10px;
+    border-right: solid 2px #fff;
+    border-bottom: solid 2px #fff;
+    transform: rotate(45deg);
+    position: relative;
+    top: -3px;
+}
+.f-menu ul li {
+    margin: 0;
+    padding: 0;
+}
+.f-menu ul li:before {
+    display: none;
+}
+.f-menu ul li a {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+}
+.f-mb-menu.open span.arrow {
+    transform: rotate(-135deg);
+    top: 3px;
+}
+.qualified-slider-blog {
+    padding: 20px 0 0 0;
+}
+.qualified-slider .before, .qualified-slider .after {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.twitter-blog, .down-arrow {
+    display: none;
+}
+.mb-social {
+    display: block !important;
+    writing-mode: vertical-lr;
+    font-size: 15px;
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    background: #000;
+    color: #fff;
+    padding: 15px 5px;
+    border-radius: 10px 0 0 10px;
+    height: 75px;
+    cursor: pointer;
+}
+.social-blog {
+    position: absolute;
+    right: -40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: right 1s;
+    top: 70px;
+    z-index: 9999;
+}
+.social-blog.open {
+    right: 0;
+}
+ul.social {
+    background: #fff;
+    border-radius: 10px 0 0 10px;
+    padding: 10px 0;
+}
+.social-blog ul li {
+    margin: 0;
+    padding: 5px 0;
+}
+.social-blog ul li a {
+    padding: 0 10px;
+}
+.header-bottom {
+    overflow: hidden;
+    padding-bottom: 10px;
+    padding-top: 150px;
+}
+.main-menu ul li a {
+    font-size: 0;
+    width: 10px;
+    height: 10px;
+    background: #0033ab;
+    border-radius: 50px;
+}
+.main-menu ul li a:before {
+    display: none;
+}
+.main-menu ul li .home {
+    top: -6px;
+}
+.main-menu ul li .about {
+    right: 55px;
+}
+.main-menu ul li .quality {
+    right: 0;
+}
+.main-menu ul li .repair {
+    right: 0;
+}
+.main-menu ul li .investor {
+    right: 55px;
+}
+.main-menu ul li a.contact {
+    bottom: -6px;
+}
+.main-menu ul li .job {
+    left: 55px;
+}
+.main-menu ul li .accounting {
+    left: 0;
+}
+.main-menu ul li .engineering {
+    left: 4px;
+}
+.main-menu ul li .parts {
+    left: 55px;
+}
+#header {
+    padding-bottom: 20px;
+}
+#about-us {
+    margin-top: 30px;
+}
+.mb-main-menu {
+    display: block !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #0033ab;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s;
+}
+.mobile-menu {
+    display: block !important;
+    width: 40px;
+    height: 30px;
+}
+.mobile-menu span {
+    position: relative;
+    background: #0033ab;
+    display: block;
+    width: 100%;
+    height: 3px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+.mobile-menu span:before, .mobile-menu span:after {content: '';position: absolute;top: -10px;left: 0;width: 100%;height: 3px;background: #0033ab;}
+.mobile-menu span:after {
+    top: auto;
+    bottom: -10px;
+}
+.header-top {
+    z-index: 9999;
+}
+.open .mb-main-menu {
+    visibility: visible;
+    opacity: 1;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+}
+.open .mobile-menu {position: fixed;z-index: 99;right: 15px;}
+.open .mobile-menu span, .open .mobile-menu span:before, .open .mobile-menu span:after {
+    background: #fff;
+}
+.open .mb-main-menu li {
+    width: 100%;
+}
+.open .mb-main-menu li a {
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+}
+.open .mobile-menu span:after {display: none;}
+.open .mobile-menu span:before {
+    transform: rotate(90deg);
+    top: 0;
+}
+.open .mobile-menu span {transform: rotate(-45deg);}
+
+}
+@media (max-width: 575px) {
+.qualified-slider {
+    width: 275px;
+    margin: 0 auto;
+}
+.qualified-slider figure {
+    background-position: -40px center;
+}
+#divisor {
+    background-position: -50px center;
+}
+.plan-blog {
+    width: 250px;
+    height: 250px;
+}
+.main-menu ul li .about {
+    right: 35px;
+}
+.main-menu ul li .quality {
+    right: -2px;
+}
+.main-menu ul li .repair {
+    right: -2px;
+}
+.main-menu ul li .investor {
+    right: 38px;
+}
+.main-menu ul li .job {
+    left: 38px;
+}
+.main-menu ul li .accounting {
+    left: -2px;
+}
+.main-menu ul li .engineering {
+    left: 0;
+}
+.main-menu ul li .parts {
+    left: 35px;
+}
+    
+}
